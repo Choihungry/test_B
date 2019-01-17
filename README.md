@@ -31,3 +31,5 @@ Writer : Choiyunsu /  Date : 2019.01.17
 6. 비즈니스 데이터 네트워크 구축   
 
 7. 방문판매 등 소비자 피해를 줄인다.  
+
+![default](https://user-images.githubusercontent.com/46768786/51292289-90768080-1a4d-11e9-92a6-c3dcbc3991eb.jpg)
